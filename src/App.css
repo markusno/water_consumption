@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.glasses-display  {
+  vertical-align: middle;
+  display: inline-block;
+}
+
+
+.glasses-display > div {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.glasses-display > .water-glass-logo {
+  height: 30px;
+  padding: 5px;
+  vertical-align: middle
+}
