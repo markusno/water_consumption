@@ -17,11 +17,38 @@
   font-size: large;
 }
 
+.history-line > div {
+  display: inline-block;
+}
+
+.view-selection > button {
+  width: 50%;
+  background-color: #222;
+  border: none;
+  height: 36px;
+  font-size: medium;
+  color:white;
+}
+
+.view-selection .selected {
+  background-color: white;
+  color: black;
+}
+
+.current-day-counter .glasses-display {
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+}
+
+.history-line > div > input {
+  width: 30px;
+}
+
 .glasses-display  {
   vertical-align: middle;
   display: inline-block;
 }
-
 
 .glasses-display > div {
   display: inline-block;

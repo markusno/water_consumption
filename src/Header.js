@@ -4,7 +4,7 @@ const Header = (props) => {
   return (
     <div className="App-header">
       <img src={glass_of_water} className="App-logo" alt="logo" />
-      <h2>Water Consumption Counter</h2>
+      <h2>Daily Water Consumption</h2>
     </div>
   )
 }
