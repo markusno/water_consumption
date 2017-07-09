@@ -2,6 +2,7 @@
   "name": "water_counter",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://myname.github.io/water_consumption",
   "dependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
